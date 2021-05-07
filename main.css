@@ -1,0 +1,21 @@
+.container {
+    /* This is not a good method but I could not get horizontal alignment figured out */
+    margin-top: 200px;
+} 
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+#form-handler {
+    margin: 10px;
+}
+
+body {
+    background-image: url('/images/mountains.jpg');
+    background-size: cover;
+}
